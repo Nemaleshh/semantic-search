@@ -1,0 +1,82 @@
+[
+  {
+    "user_input": "Fisherman, Inland Water",
+    "title": "Fisherman, Inland Water",
+    "NCO2004": "6152.10",
+    "NCO2015": "6222.0100",
+    "confidence": 0.9347,
+    "hierarchy": {
+      "division": "Skilled Agricultural and Fishery Workers",
+      "family": "Inland and Coastal Waters Fishery",
+      "group": "Fishery Workers, Hunters and Trappers",
+      "subdivision": "Market Oriented Skilled Forestry,Fishery and Hunting Workers"
+    },
+    "text": "",
+    "embedding": [],
+    "feedback": "good"
+  },
+  {
+    "user_input": "Fisherman, Deep Sea/Marine Capture",
+    "title": "Fisherman, Deep Sea/Marine Capture",
+    "NCO2004": "6153.10",
+    "NCO2015": "6223.0101",
+    "confidence": 0.9105,
+    "hierarchy": {
+      "division": "Skilled Agricultural and Fishery Workers",
+      "family": "Deep-Sea Fishery Workers",
+      "group": "Fishery Workers, Hunters and Trappers",
+      "subdivision": "Market Oriented Skilled Forestry,Fishery and Hunting Workers"
+    },
+    "text": "",
+    "embedding": [],
+    "feedback": "bad"
+  },
+  {
+    "user_input": "Fieldman, Fish",
+    "title": "Fieldman, Fish",
+    "NCO2004": "6159.25",
+    "NCO2015": "6224.0700",
+    "confidence": 0.8829,
+    "hierarchy": {
+      "division": "Skilled Agricultural and Fishery Workers",
+      "family": "Hunters and Trappers",
+      "group": "Fishery Workers, Hunters and Trappers",
+      "subdivision": "Market Oriented Skilled Forestry,Fishery and Hunting Workers"
+    },
+    "text": "",
+    "embedding": [],
+    "feedback": "good"
+  },
+  {
+    "user_input": "Fisherman, Estuaries, Coastal and",
+    "title": "Fisherman, Estuaries, Coastal and",
+    "NCO2004": "6152.20",
+    "NCO2015": "6222.0200",
+    "confidence": 0.8795,
+    "hierarchy": {
+      "division": "Skilled Agricultural and Fishery Workers",
+      "family": "Inland and Coastal Waters Fishery",
+      "group": "Fishery Workers, Hunters and Trappers",
+      "subdivision": "Market Oriented Skilled Forestry,Fishery and Hunting Workers"
+    },
+    "text": "",
+    "embedding": [],
+    "feedback": "good"
+  },
+  {
+    "user_input": "Fish Overseer",
+    "title": "Fish Overseer",
+    "NCO2004": "6159.10",
+    "NCO2015": "6224.0500",
+    "confidence": 0.8754,
+    "hierarchy": {
+      "division": "Skilled Agricultural and Fishery Workers",
+      "family": "Hunters and Trappers",
+      "group": "Fishery Workers, Hunters and Trappers",
+      "subdivision": "Market Oriented Skilled Forestry,Fishery and Hunting Workers"
+    },
+    "text": "",
+    "embedding": [],
+    "feedback": "good"
+  }
+]

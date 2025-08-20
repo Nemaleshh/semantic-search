@@ -1,0 +1,562 @@
+[
+  {
+    "timestamp": "2025-08-20T17:40:41.130799",
+    "transcription": "The audio says:  तुम्हारा नाम?\n\nThis translates to English as:  What is your name?",
+    "results": {
+      "query": "The audio says:  तुम्हारा नाम?\n\nThis translates to English as:  What is your name?",
+      "embedding_time": 0.178,
+      "results": [
+        {
+          "title": "Voice Over Artist",
+          "NCO2015": "2655.0301",
+          "NCO2004": "",
+          "confidence": 0.7404,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Creative and Performing Artists",
+            "family": "Actors"
+          }
+        },
+        {
+          "title": "Speech Language Pathologist and Audiologist",
+          "NCO2015": "2266.0401",
+          "NCO2004": "",
+          "confidence": 0.71,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Health Professionals",
+            "group": "Other Health Professionals",
+            "family": "Audiologists and Speech Therapists"
+          }
+        },
+        {
+          "title": "Speech Therapist and Audiologist",
+          "NCO2015": "2266.0100",
+          "NCO2004": "3229.10",
+          "confidence": 0.7007,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Health Professionals",
+            "group": "Other Health Professionals",
+            "family": "Audiologists and Speech Therapists"
+          }
+        },
+        {
+          "title": "Translator",
+          "NCO2015": "2643.0200",
+          "NCO2004": "2444.20",
+          "confidence": 0.6978,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Authors, Journalists and Linguists",
+            "family": "Translators, Interpreters and Other Linguists"
+          }
+        },
+        {
+          "title": "Singeing Machineman/Singeing Machine",
+          "NCO2015": "8154.2700",
+          "NCO2004": "8264.87",
+          "confidence": 0.6958,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Bleaching, Dyeing and Cleaning Machine Operators"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T17:44:22.724431",
+    "transcription": "The audio says:  कपड़ा\n\nThe English translation is: **Cloth** or **Fabric**.",
+    "results": {
+      "query": "The audio says:  कपड़ा\n\nThe English translation is: **Cloth** or **Fabric**.",
+      "embedding_time": 0.125,
+      "results": [
+        {
+          "title": "Hand Embroiderer, Zari/Hand Embroider",
+          "NCO2015": "7533.0300",
+          "NCO2004": "7436.20",
+          "confidence": 0.7479,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Food Processing, Woodworking,Garment and Other Craft and Related Trades Workers",
+            "group": "Garment and Related Trades Workers",
+            "family": "Sewing, Embroiderers and Related Workers"
+          }
+        },
+        {
+          "title": "Dyed- Yarn Operator (Textile)",
+          "NCO2015": "8154.0900",
+          "NCO2004": "8264.67",
+          "confidence": 0.7378,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Bleaching, Dyeing and Cleaning Machine Operators"
+          }
+        },
+        {
+          "title": "Knitter, Machine/Knitting Machine",
+          "NCO2015": "8152.0900",
+          "NCO2004": "8262.45",
+          "confidence": 0.7279,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Weaving and Knitting Machine Operators"
+          }
+        },
+        {
+          "title": "Translator",
+          "NCO2015": "2643.0200",
+          "NCO2004": "2444.20",
+          "confidence": 0.7233,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Authors, Journalists and Linguists",
+            "family": "Translators, Interpreters and Other Linguists"
+          }
+        },
+        {
+          "title": "Shearer, Animal, Other/Shearer, Other",
+          "NCO2015": "6121.1300",
+          "NCO2004": "6121.70",
+          "confidence": 0.7231,
+          "hierarchy": {
+            "division": "Skilled Agricultural and Fishery Workers",
+            "subdivision": "Market Oriented Skilled Agricultural Workers",
+            "group": "Animal Producers",
+            "family": "Livestock and Dairy Producers"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T17:47:23.965069",
+    "transcription": "The audio says:  कपड़ा\n\nThe English translation is: **cloth**  or **fabric**.",
+    "results": {
+      "query": "The audio says:  कपड़ा\n\nThe English translation is: **cloth**  or **fabric**.",
+      "embedding_time": 0.217,
+      "results": [
+        {
+          "title": "Hand Embroiderer, Zari/Hand Embroider",
+          "NCO2015": "7533.0300",
+          "NCO2004": "7436.20",
+          "confidence": 0.7417,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Food Processing, Woodworking,Garment and Other Craft and Related Trades Workers",
+            "group": "Garment and Related Trades Workers",
+            "family": "Sewing, Embroiderers and Related Workers"
+          }
+        },
+        {
+          "title": "Dyed- Yarn Operator (Textile)",
+          "NCO2015": "8154.0900",
+          "NCO2004": "8264.67",
+          "confidence": 0.7328,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Bleaching, Dyeing and Cleaning Machine Operators"
+          }
+        },
+        {
+          "title": "Shearer, Animal, Other/Shearer, Other",
+          "NCO2015": "6121.1300",
+          "NCO2004": "6121.70",
+          "confidence": 0.7273,
+          "hierarchy": {
+            "division": "Skilled Agricultural and Fishery Workers",
+            "subdivision": "Market Oriented Skilled Agricultural Workers",
+            "group": "Animal Producers",
+            "family": "Livestock and Dairy Producers"
+          }
+        },
+        {
+          "title": "Translator",
+          "NCO2015": "2643.0200",
+          "NCO2004": "2444.20",
+          "confidence": 0.7259,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Authors, Journalists and Linguists",
+            "family": "Translators, Interpreters and Other Linguists"
+          }
+        },
+        {
+          "title": "Knitter, Machine/Knitting Machine",
+          "NCO2015": "8152.0900",
+          "NCO2004": "8262.45",
+          "confidence": 0.7177,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Weaving and Knitting Machine Operators"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T17:52:42.814011",
+    "transcription": "KapadaCloth",
+    "results": {
+      "query": "KapadaCloth",
+      "embedding_time": 0.155,
+      "results": [
+        {
+          "title": "Nattuvan",
+          "NCO2015": "2653.0200",
+          "NCO2004": "2454.20",
+          "confidence": 0.7794,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Creative and Performing Artists",
+            "family": "Dancers and Choreographers"
+          }
+        },
+        {
+          "title": "Purohit",
+          "NCO2015": "2636.0200",
+          "NCO2004": "2462.10",
+          "confidence": 0.7681,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Social and Religious Professionals",
+            "family": "Religious Professionals"
+          }
+        },
+        {
+          "title": "Khas Thatti Maker",
+          "NCO2015": "7317.1200",
+          "NCO2004": "7424.55",
+          "confidence": 0.7365,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Handicraft and Printing Workers",
+            "group": "Handicraft Workers",
+            "family": "Handicraft Workers in Wood,Basketry and Related Materials"
+          }
+        },
+        {
+          "title": "Actuary",
+          "NCO2015": "2120.0200",
+          "NCO2004": "2121.20",
+          "confidence": 0.7364,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Science and Engineering Professionals",
+            "group": "Mathematicians, Actuaries and Statisticians",
+            "family": "Mathematicians, Actuaries and Statisticians"
+          }
+        },
+        {
+          "title": "Munsif",
+          "NCO2015": "2612.0400",
+          "NCO2004": "2422.40",
+          "confidence": 0.7288,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Legal Professionals",
+            "family": "Judges"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T17:54:55.122358",
+    "transcription": "Cloth",
+    "results": {
+      "query": "Cloth",
+      "embedding_time": 0.18,
+      "results": [
+        {
+          "title": "Reeler Textile",
+          "NCO2015": "8151.1000",
+          "NCO2004": "8261.70",
+          "confidence": 0.8783,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Fibre Preparing, Spinning and Winding Machine Operators"
+          }
+        },
+        {
+          "title": "Pelt, Stitcher",
+          "NCO2015": "7535.2200",
+          "NCO2004": "7441.60",
+          "confidence": 0.8775,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Food Processing, Woodworking,Garment and Other Craft and Related Trades Workers",
+            "group": "Garment and Related Trades Workers",
+            "family": "Pelt Dressers, Tanners and Fellmongers"
+          }
+        },
+        {
+          "title": "Knotter, Silk",
+          "NCO2015": "7318.4900",
+          "NCO2004": "7432.40",
+          "confidence": 0.8761,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Handicraft and Printing Workers",
+            "group": "Handicraft Workers",
+            "family": "Handicraft Workers in Textiles,Leather and Related Materials"
+          }
+        },
+        {
+          "title": "Dyer Garment",
+          "NCO2015": "8154.1500",
+          "NCO2004": "8264.75",
+          "confidence": 0.8755,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Bleaching, Dyeing and Cleaning Machine Operators"
+          }
+        },
+        {
+          "title": "Stitcher (Leather Goods and Garments)",
+          "NCO2015": "8153.0102",
+          "NCO2004": "",
+          "confidence": 0.8738,
+          "hierarchy": {
+            "division": "Plant and Machine Operators and Assemblers",
+            "subdivision": "Stationary Plant and Machine Operators",
+            "group": "Textile, Fur and Leather Products Machine Operators",
+            "family": "Sewing Machine Operators"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T20:12:52.391879",
+    "transcription": "kabada",
+    "results": {
+      "query": "kabada",
+      "embedding_time": 0.15,
+      "results": [
+        {
+          "title": "Nattuvan",
+          "NCO2015": "2653.0200",
+          "NCO2004": "2454.20",
+          "confidence": 0.8166,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Creative and Performing Artists",
+            "family": "Dancers and Choreographers"
+          }
+        },
+        {
+          "title": "Dhobi",
+          "NCO2015": "9121.0100",
+          "NCO2004": "9133.10",
+          "confidence": 0.8004,
+          "hierarchy": {
+            "division": "agriculture",
+            "subdivision": "Cleaners and Helpers",
+            "group": "Vehicle, Window, Laundry andOther Hand Cleaning Workers",
+            "family": "Hand Launderers and Pressers"
+          }
+        },
+        {
+          "title": "Purohit",
+          "NCO2015": "2636.0200",
+          "NCO2004": "2462.10",
+          "confidence": 0.7998,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Social and Religious Professionals",
+            "family": "Religious Professionals"
+          }
+        },
+        {
+          "title": "Khas Thatti Maker",
+          "NCO2015": "7317.1200",
+          "NCO2004": "7424.55",
+          "confidence": 0.7712,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Handicraft and Printing Workers",
+            "group": "Handicraft Workers",
+            "family": "Handicraft Workers in Wood,Basketry and Related Materials"
+          }
+        },
+        {
+          "title": "Sorter",
+          "NCO2015": "9329.0600",
+          "NCO2004": "9322.74",
+          "confidence": 0.7569,
+          "hierarchy": {
+            "division": "agriculture",
+            "subdivision": "Labourers in Mining, Construction,Manufacturing and Transport",
+            "group": "Manufacturing Labourers",
+            "family": "Manufacturing Labourers, Not Elsewhere Classified"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T20:13:43.801785",
+    "transcription": "Kapara",
+    "results": {
+      "query": "Kapara",
+      "embedding_time": 0.109,
+      "results": [
+        {
+          "title": "Nattuvan",
+          "NCO2015": "2653.0200",
+          "NCO2004": "2454.20",
+          "confidence": 0.7978,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Creative and Performing Artists",
+            "family": "Dancers and Choreographers"
+          }
+        },
+        {
+          "title": "Purohit",
+          "NCO2015": "2636.0200",
+          "NCO2004": "2462.10",
+          "confidence": 0.7873,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Social and Religious Professionals",
+            "family": "Religious Professionals"
+          }
+        },
+        {
+          "title": "Munsif",
+          "NCO2015": "2612.0400",
+          "NCO2004": "2422.40",
+          "confidence": 0.7652,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Legal, Social and Cultural Professionals",
+            "group": "Legal Professionals",
+            "family": "Judges"
+          }
+        },
+        {
+          "title": "Khas Thatti Maker",
+          "NCO2015": "7317.1200",
+          "NCO2004": "7424.55",
+          "confidence": 0.7609,
+          "hierarchy": {
+            "division": "Craft and Related Trades Workers",
+            "subdivision": "Handicraft and Printing Workers",
+            "group": "Handicraft Workers",
+            "family": "Handicraft Workers in Wood,Basketry and Related Materials"
+          }
+        },
+        {
+          "title": "Physician, Sidha",
+          "NCO2015": "2269.0300",
+          "NCO2004": "2229.40",
+          "confidence": 0.7529,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Health Professionals",
+            "group": "Other Health Professionals",
+            "family": "Health Professionals, Not Elsewhere Classified"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-20T20:14:12.643324",
+    "transcription": "Yours yours",
+    "results": {
+      "query": "Yours yours",
+      "embedding_time": 0.177,
+      "results": [
+        {
+          "title": "Manager, Mine",
+          "NCO2015": "1322.0100",
+          "NCO2004": "1222.10",
+          "confidence": 0.7632,
+          "hierarchy": {
+            "division": "Legislators, Senior Officials, and Managers",
+            "subdivision": "Production and Specialized Services Managers",
+            "group": "Manufacturing, Mining,Construction and Distribution Managers",
+            "family": "Mining Managers"
+          }
+        },
+        {
+          "title": "Surveyor, Mine",
+          "NCO2015": "2165.0500",
+          "NCO2004": "2148.40",
+          "confidence": 0.7529,
+          "hierarchy": {
+            "division": "Professionals",
+            "subdivision": "Science and Engineering Professionals",
+            "group": "Architects, Planners, Surveyors and Designers",
+            "family": "Cartographers and Surveyors"
+          }
+        },
+        {
+          "title": "General Manager, Mine",
+          "NCO2015": "1322.0400",
+          "NCO2004": "1302.10",
+          "confidence": 0.7248,
+          "hierarchy": {
+            "division": "Legislators, Senior Officials, and Managers",
+            "subdivision": "Production and Specialized Services Managers",
+            "group": "Manufacturing, Mining,Construction and Distribution Managers",
+            "family": "Mining Managers"
+          }
+        },
+        {
+          "title": "Sorter",
+          "NCO2015": "9329.0600",
+          "NCO2004": "9322.74",
+          "confidence": 0.7042,
+          "hierarchy": {
+            "division": "agriculture",
+            "subdivision": "Labourers in Mining, Construction,Manufacturing and Transport",
+            "group": "Manufacturing Labourers",
+            "family": "Manufacturing Labourers, Not Elsewhere Classified"
+          }
+        },
+        {
+          "title": "Digger (Mine & Quarry)",
+          "NCO2015": "9311.0200",
+          "NCO2004": "9311.20",
+          "confidence": 0.6961,
+          "hierarchy": {
+            "division": "agriculture",
+            "subdivision": "Labourers in Mining, Construction,Manufacturing and Transport",
+            "group": "Mining and Construction Labourers",
+            "family": "Mining and Quarrying Labourers"
+          }
+        }
+      ]
+    }
+  }
+]
